@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 enmotech/opengauss:latest
+aff123/opengauss:latest
