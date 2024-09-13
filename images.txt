@@ -7,4 +7,4 @@ nginx
 python:alpine3.19
 enmotech/opengauss:latest
 #aff123/opengauss:latest
-blueapple/opengauss:latest
+#blueapple/opengauss:latest
